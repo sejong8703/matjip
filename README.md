@@ -145,9 +145,6 @@
 ***
 ### 최종발표 PPT
 [JejuMatjipProject.pptx](/included/JejuMatjipProject.pptx)<br>
-![슬라이드1](/.PNG)<br>
-![슬라이드2](/.PNG)<br>
-![슬라이드3](/.PNG)<br>
 
 
 
